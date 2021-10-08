@@ -1,4 +1,4 @@
-# LinuxVoiceAssistant
+# LinuxVoiceAssistant using python
 ## TO BE CONTINUED
 
 Linux Voice Assistant for to Make Your Work Easier
